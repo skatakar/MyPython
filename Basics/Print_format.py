@@ -1,4 +1,4 @@
-###Printing output in different options
+###Printing output with different options
 
 a=1
 st1= "one"
